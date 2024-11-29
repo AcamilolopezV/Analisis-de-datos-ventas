@@ -1,0 +1,26 @@
+************************ DATOS DE LA TRANSACCIÓN ***************************
+Empresa: EjemploCorp
+Fecha del Reporte: 2024-02-03
+Número de Sucursal: 12345
+
+ID_Transaccion, Fecha, Producto, Cantidad, Precio, Categoria, ID_Cliente, Notas
+1, 2024-01-20, ProductoA, 5, 10.50, Electrónica, 101, -
+2, 2024-01-21, ProductoB, 2, 15.75, Ropa, 102, -
+3, 2024-01-22, ProductoC, 8, 7.20, Hogar, 103, -
+4, 2024-01-23, ProductoA, 3, 10.50, Electrónica, 104, -
+5, 2024-01-23, ProductoB, 1, 15.75, Ropa, 105, -
+6, 2024-01-24, ProductoC, 4, 7.20, Hogar, 106, -
+7, 2024-01-25, ProductoA, 6, 10.50, Electrónica, 107, -
+8, 2024-01-25, ProductoB, 3, 15.75, Ropa, 108, -
+9, 2024-01-26, ProductoC, 2, 7.20, Hogar, 109, -
+10, 2024-01-27, ProductoA, 4, 10.50, Electrónica, 110, -
+11, 2024-01-27, ProductoB, 5, 15.75, Ropa, 111, -
+12, 2024-01-28, ProductoC, 7, 7.20, Hogar, 112, -
+13, 2024-01-29, ProductoA, 2, 10.50, Electrónica, 113, -
+14, 2024-01-29, ProductoB, 1, 15.75, Ropa, 114, -
+15, 2024-01-30, ProductoC, 3, 7.20, Hogar, 115, -
+16, 2024-01-31, ProductoA, 8, 10.50, Electrónica, 116, -
+17, 2024-01-31, ProductoB, 4, 15.75, Ropa, 117, -
+18, 2024-02-01, ProductoC, 5, 7.20, Hogar, 118, -
+19, 2024-02-02, ProductoA, 3, 10.50, Electrónica, 119, -
+20, 2024-02-02, ProductoB, 2, 15.75, Ropa, 120, -
